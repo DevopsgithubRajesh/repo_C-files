@@ -8,4 +8,3 @@ reverse.o:reverse.c
 	gcc -c reverse.c
 factorial.o:factorial.c
 	gcc -c factorial.c
-	rm *.o
